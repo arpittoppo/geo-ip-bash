@@ -31,6 +31,7 @@ These tools are already installed on most Linux systems.
 Run the script and provide a public IP address.
 
 ```bash
+chmod +x geo.sh
 ./geo.sh <IP_ADDRESS>
 ```
 
